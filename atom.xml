@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aaathenasty.github.io/</id>
     <title>Tianye Song</title>
-    <updated>2019-12-28T06:01:34.308Z</updated>
+    <updated>2019-12-28T06:18:43.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aaathenasty.github.io/"/>
     <link rel="self" href="https://aaathenasty.github.io//atom.xml"/>
@@ -16,18 +16,5 @@
         <link href="https://aaathenasty.github.io//post/shi-yan">
         </link>
         <updated>2019-12-28T05:24:11.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://aaathenasty.github.io//post/hello-gridea</id>
-        <link href="https://aaathenasty.github.io//post/hello-gridea">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></content>
     </entry>
 </feed>
