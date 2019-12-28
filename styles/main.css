@@ -967,6 +967,10 @@ td {
   font-weight: bold;
 }
 
+      .main {
+        max-width: 600px;
+      }
+    
       .post-container .post .post-title {
         text-align: center;
       }
@@ -984,6 +988,10 @@ td {
         font-family: Georgia, serif;
       }
     
+      .toc-container {
+        display: none;
+      }
+    
       .main {
         background: #FFF;
       }
@@ -993,23 +1001,14 @@ td {
       }
     
       body {
-        color: #d0bfff;
-      }
-    
-      a {
-        color: #b197fc;
-      }
-    
-      a:hover {
         color: #9775fa;
       }
     
-      body{
- <div class="social-container">
-          
-        <a href="https://www.linkedin.com/in/tianye-song-athena/" target="_blank">
-          <i class="fab fa-LinkedIn"></i>
-        </a>
-        
- </div>}
+      a {
+        color: #6741d9;
+      }
+    
+      a:hover {
+        color: #5f3dc4;
+      }
     
