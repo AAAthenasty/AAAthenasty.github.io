@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aaathenasty.github.io/</id>
     <title>Tianye Song</title>
-    <updated>2019-12-28T10:08:03.279Z</updated>
+    <updated>2020-03-15T10:01:24.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aaathenasty.github.io/"/>
     <link rel="self" href="https://aaathenasty.github.io//atom.xml"/>
     <subtitle>Live and Enjoy Your Life</subtitle>
     <logo>https://aaathenasty.github.io//images/avatar.png</logo>
     <icon>https://aaathenasty.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, Tianye Song</rights>
+    <rights>All rights reserved 2020, Tianye Song</rights>
     <entry>
         <title type="html"><![CDATA[实验]]></title>
         <id>https://aaathenasty.github.io//post/shi-yan</id>
