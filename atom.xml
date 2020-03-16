@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aaathenasty.github.io/</id>
     <title>Tianye Song</title>
-    <updated>2020-03-16T08:25:06.503Z</updated>
+    <updated>2020-03-16T08:31:02.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aaathenasty.github.io/"/>
     <link rel="self" href="https://aaathenasty.github.io//atom.xml"/>
@@ -10,4 +10,11 @@
     <logo>https://aaathenasty.github.io//images/avatar.png</logo>
     <icon>https://aaathenasty.github.io//favicon.ico</icon>
     <rights>All rights reserved 2020, Tianye Song</rights>
+    <entry>
+        <title type="html"><![CDATA[留学申请总结]]></title>
+        <id>https://aaathenasty.github.io//post/liuxue</id>
+        <link href="https://aaathenasty.github.io//post/liuxue">
+        </link>
+        <updated>2019-12-28T05:24:11.000Z</updated>
+    </entry>
 </feed>
